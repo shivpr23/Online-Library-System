@@ -1,0 +1,31 @@
+
+.book-details-page {
+    padding: 2rem;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .book-details-page h1 {
+    color: #333;
+    font-size: 2rem;
+  }
+  
+  .book-details-page p {
+    font-size: 1.1rem;
+    color: #555;
+  }
+  
+  .book-details-page a {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .book-details-page a:hover {
+    background-color: #005fa3;
+  }
+  

@@ -1,0 +1,56 @@
+
+.browse-books-page {
+    padding: 2rem;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .browse-books-page h1 {
+    font-size: 1.75rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .browse-books-page input {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .browse-books-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .browse-books-page li {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+  }
+  
+  .browse-books-page li h3 {
+    font-size: 1.25rem;
+    color: #0077cc;
+    margin: 0;
+  }
+  
+  .browse-books-page li p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .view-details-link {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .view-details-link:hover {
+    text-decoration: underline;
+  }
+  
